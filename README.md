@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Logo" src="https://raw.githubusercontent.com/FireDeveloper/FireFlow-Oven/master/logo.png" width="600">
+<img alt="Logo" src="https://raw.githubusercontent.com/FireFlowController/FireFlow-Oven/master/logo.png" width="600">
 </p>
 
 [![GitHub license](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/FireDeveloper/FireFlow-Oven/master/LICENSE.md)
